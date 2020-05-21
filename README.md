@@ -9,3 +9,6 @@ run using terminal or python interpreter.
 command: 
 
 python3 filename.py typeanypassword
+
+
+you can type as many password as you want by separating the command with spaces.
